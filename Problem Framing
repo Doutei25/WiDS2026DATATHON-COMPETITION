@@ -1,0 +1,8 @@
+Traditional classification ignores when an event is likely to occur.
+This project reframes the task as a time-to-event prediction problem, allowing stakeholders to:
+
+Prioritize high-risk cases earlier
+
+Allocate resources efficiently
+
+Interpret risk progression over time
