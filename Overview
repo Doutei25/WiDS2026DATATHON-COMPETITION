@@ -1,0 +1,5 @@
+This repository contains my solution to the WiDS Worldwide Datathon 2026, where the objective was to predict event occurrence risk over time rather than a single binary outcome.
+
+I implemented a survival analysis framework to estimate calibrated probabilities of an event occurring within 12h, 24h, 48h, and 72h, enabling actionable, time-aware decision-making.
+
+Final Public Leaderboard Score: 0.90793
