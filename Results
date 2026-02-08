@@ -1,0 +1,6 @@
+| Metric           | Value                       |
+| ---------------- | --------------------------- |
+| Public Score     | **0.90793**                 |
+| Model Type       | Survival Analysis           |
+| Prediction Type  | Multi-horizon probabilities |
+| Interpretability | High                        |
