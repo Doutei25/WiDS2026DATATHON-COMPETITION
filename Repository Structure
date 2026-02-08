@@ -1,0 +1,8 @@
+WiDS2026DATATHON-COMPETITION/
+├── data/                # Raw competition datasets
+├── notebooks/           # End-to-end analysis notebooks
+├── src/                 # Modular modeling code
+├── submissions/         # Final CSV submission
+├── reports/             # Post-mortem and documentation
+├── requirements.txt
+└── README.md
