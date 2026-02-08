@@ -1,0 +1,45 @@
+1. Data Preparation
+
+Data auditing and validation
+
+Missing value handling
+
+Feature consistency between train and test sets
+
+2. Feature Engineering
+
+Risk-sensitive transformations
+
+Temporal alignment
+
+Scaling and encoding pipelines
+
+3. Survival Modeling
+
+Kaplan–Meier baseline analysis
+
+Cox Proportional Hazards model
+
+Weibull Accelerated Failure Time (AFT) model
+
+4. Horizon-Based Probability Estimation
+
+Survival functions were converted into cumulative probabilities:
+
+prob_12h
+
+prob_24h
+
+prob_48h
+
+prob_72h
+
+5. Evaluation & Calibration
+
+Concordance Index (C-index)
+
+Brier Score
+
+Horizon-level validation
+
+Competition-compliant submission checks
